@@ -1,4 +1,4 @@
-A list of useful VS Code keyboard shortcuts that are useful:
+A list of VS Code keyboard shortcuts that are useful:
 
 | Description  | Keybinding |
 |---|---|
