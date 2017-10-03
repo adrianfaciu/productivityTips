@@ -8,3 +8,11 @@ A list of VS Code keyboard shortcuts that are useful:
 | New cursor | Ctrl + Alt + Up/Down |
 | Next selection | Ctrl + F3 |
 | Add selection | Ctrl + D |
+| Autocomplete | Ctrl + Space |
+| Move line/block code Up/Down | Alt + Up/Down Arrow |
+| Select all occurrences of current word | Ctrl + F2|
+| Jump to matching bracket | Ctrl + Shift + \ |
+| Go to Beginning of File | Ctrl + Home |
+| Comment code | Ctrl + / |
+
+Useful link - https://code.visualstudio.com/docs/getstarted/keybindings
