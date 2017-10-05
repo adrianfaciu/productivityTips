@@ -14,5 +14,3 @@ A list of VS Code keyboard shortcuts that are useful:
 | Jump to matching bracket | Ctrl + Shift + \ |
 | Go to Beginning of File | Ctrl + Home |
 | Comment code | Ctrl + / |
-
-Useful link - https://code.visualstudio.com/docs/getstarted/keybindings
