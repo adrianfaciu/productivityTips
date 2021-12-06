@@ -7,6 +7,6 @@ Usefull list of commands for git:
 | git show --pretty="format:" --name-only COMMIT_ID | show changes from a specific commit |
 | git branch -a | show all branches, including remote |
 | git branch &#124; grep "pattern" &#124; xargs git branch -D | delete all branches that match a pattern |
-| git branch -vv | grep ': gone]' | awk '{print $1}' | xargs git branch -D | delete all branches that got removed from remote
+| git branch -vv  &#124; grep ': gone]'  &#124; awk '{print $1}'  &#124; xargs git branch -D | delete all branches that got removed from remote
 | git log --pretty=format:"%ad:%an:%d:%B" --date=short --reverse --all --since=1.month.ago --author=Adrian | what I did last month
 | git rebase --whitespace=fix -f <last_good_commit> | undo line ending changes
